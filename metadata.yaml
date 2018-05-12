@@ -24,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
 description: Relates the adventures of Sammy Jay, a lazy bird who would rather steal
   from his neighbors than find his own food.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43596#The-Adventures-of-Sammy-Jay
 gutenberg_issued: '2013-08-29'
 gutenberg_type: Text
 identifiers:
